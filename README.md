@@ -4,7 +4,7 @@
 
 This software performs an HSV filter of the selected image. With the help of 6 sliders, you stablish the minimun and maximun threshold of each of the chanels. Out of this range, all the pixels will be put to 0.
 
-(https://github.com/DaniAsturias/ColorFilter/edit/master/algaoutput.png)
+![GitHub Logo](/algaoutput.png)
 
 
 # Dependencies
